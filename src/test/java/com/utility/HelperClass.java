@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class HelperClass {
 	private static WebDriver driver;
 
-	private static HelperClass helperClassPB;
+	private static HelperClass helperClass;
 
 	public HelperClass() {
 		driver = new ChromeDriver();
@@ -26,8 +26,8 @@ public class HelperClass {
 	}
 
 	public void setDriver() {
-		if (helperClassPB == null) {
-			helperClassPB = new HelperClass();
+		if (helperClass == null) {
+			helperClass = new HelperClass();
 		}
 	}
 
@@ -36,6 +36,6 @@ public class HelperClass {
 			driver.close();
 			driver.quit();
 		}
-		helperClassPB = null;
+		helperClass = null;
 	}
 }
