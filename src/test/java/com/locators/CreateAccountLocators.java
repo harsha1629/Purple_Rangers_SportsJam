@@ -1,17 +1,13 @@
 package com.locators;
 
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class CreateAccountLocators {
-	WebDriver driver;
-	
-		
-	@FindBy(xpath = "//a[text()='Create Account']")
+	@FindBy(xpath = "//a[@class='loginlnk newuser']")
 	public WebElement createAccountClick;
 
-	@FindBy(id = "txtFirstName")
+	@FindBy(name = "txtFirstName")
 	public WebElement createfirstname;
 
 	@FindBy(xpath = "//span[@class='txt155']//child::input[1]")
@@ -28,9 +24,5 @@ public class CreateAccountLocators {
 
 	@FindBy(name = "btnSubmit")
 	public WebElement createSubmitButton;
-	
-	@FindBy(xpath = "//a[text()='Logout']")
-	public WebElement logoutbtn;
-
 
 }

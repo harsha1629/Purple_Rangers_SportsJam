@@ -1,9 +1,7 @@
 package com.actions;
 
 import org.openqa.selenium.support.PageFactory;
-
 import com.locators.AddToCartLoacators;
-
 import com.utility.Helper_Class;
 
 public class AddToCartActions {
@@ -15,8 +13,8 @@ public class AddToCartActions {
 		PageFactory.initElements(Helper_Class.getDriver(), cartLocators);
 		
 	}
-	//public void Search(String a ) {
-		cartLocators.search.sendKeys(a);
+	public void Search(String Search ) {
+		cartLocators.search.sendKeys(Search);
 	}
 	public void clickSearc( ) {
 		cartLocators.searc.click();
@@ -50,3 +48,4 @@ public class AddToCartActions {
 		return cartLocators.empty.getText();
 	}
 }
+//Aarthi comments
