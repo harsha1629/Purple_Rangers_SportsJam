@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-
+ 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
@@ -14,36 +14,36 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.apache.poi.ss.util.NumberToTextConverter;
-
+ 
 public class ExcelReader {
-
+ 
 	
 	public List<Map<String, String>> getData(String excelFilePath, String sheetName)
 			throws InvalidFormatException, IOException {
 		Sheet sheet = getSheetByName(excelFilePath, sheetName);
 		return readSheet(sheet);
 	}
-
+ 
 	public List<Map<String, String>> getData(String excelFilePath, int sheetNumber)
 			throws InvalidFormatException, IOException {
 		Sheet sheet = getSheetByIndex(excelFilePath, sheetNumber);
 		return readSheet(sheet);
 	}
-
+ 
 	private Sheet getSheetByName(String excelFilePath, String sheetName) throws IOException, InvalidFormatException {
 		Sheet sheet = getWorkBook(excelFilePath).getSheet(sheetName);
 		return sheet;
 	}
-
+ 
 	private Sheet getSheetByIndex(String excelFilePath, int sheetNumber) throws IOException, InvalidFormatException {
 		Sheet sheet = getWorkBook(excelFilePath).getSheetAt(sheetNumber);
 		return sheet;
 	}
-
+ 
 	private Workbook getWorkBook(String excelFilePath) throws IOException, InvalidFormatException {
 		return WorkbookFactory.create(new File(excelFilePath));
 	}
-
+ 
 	private List<Map<String, String>> readSheet(Sheet sheet) {
 		Row row;
 		int totalRow = sheet.getPhysicalNumberOfRows();
@@ -63,7 +63,7 @@ public class ExcelReader {
 		}
 		return excelRows;
 	}
-
+ 
 	private int getHeaderRowNumber(Sheet sheet) {
 		Row row;
 		int totalRow = sheet.getLastRowNum();
@@ -76,10 +76,10 @@ public class ExcelReader {
 					cell = row.getCell(currentColumn, Row.MissingCellPolicy.CREATE_NULL_AS_BLANK);
 					if (cell.getCellType() == CellType.STRING) {
 						return row.getRowNum();
-
+ 
 					} else if (cell.getCellType() == CellType.NUMERIC) {
 						return row.getRowNum();
-
+ 
 					} else if (cell.getCellType() == CellType.BOOLEAN) {
 						return row.getRowNum();
 					} else if (cell.getCellType() == CellType.ERROR) {
@@ -90,11 +90,11 @@ public class ExcelReader {
 		}
 		return (-1);
 	}
-
+ 
 	private Row getRow(Sheet sheet, int rowNumber) {
 		return sheet.getRow(rowNumber);
 	}
-
+ 
 	private LinkedHashMap<String, String> getCellValue(Sheet sheet, Row row, int currentColumn) {
 		LinkedHashMap<String, String> columnMapdata = new LinkedHashMap<String, String>();
 		Cell cell;
@@ -151,5 +151,5 @@ public class ExcelReader {
 		}
 		return columnMapdata;
 	}
-
+ 
 }
