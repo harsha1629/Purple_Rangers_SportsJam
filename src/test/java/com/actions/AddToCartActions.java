@@ -6,7 +6,7 @@ import com.utility.Helper_Class;
 
 public class AddToCartActions {
 	
-	AddToCartLoacators cartLocators;
+	//AddToCartLoacators cartLocators;
 	
 	public AddToCartActions() {
 		cartLocators = new AddToCartLoacators();
