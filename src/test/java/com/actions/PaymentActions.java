@@ -19,34 +19,34 @@ PaymentLocators payLoacators;
 	public void clickPay( ) {
 		payLoacators.Pay.click();
 	}
-	public void Email(String Email ) {
-		payLoacators.Email.sendKeys(Email);
+	public void Email(String a ) {
+		payLoacators.Email.sendKeys(a);
 	}
 	public void clickhole( ) {
 		payLoacators.hole.click();
 	}
-	public void Password(String Password) {
-		payLoacators.Password.sendKeys(Password);
+	public void Password(String b) {
+		payLoacators.Password.sendKeys(b);
 	}
 	public void clickContinue( ) {
-		payLoacators.Continue1.click();
+		payLoacators.Continue.click();
 	}
-	public void Name(String Name ) {
+	public void Name(String c ) {
 		payLoacators.Name.clear();
-		payLoacators.Name.sendKeys(Name);
+		payLoacators.Name.sendKeys(c);
 	}
-	public void LastName(String LastName ) {
+	public void LastName(String d ) {
 		payLoacators.LastName.clear();
-		payLoacators.LastName.sendKeys(LastName);
+		payLoacators.LastName.sendKeys(d);
 	}
-	public void Address(String Address ) {
+	public void Address(String e ) {
 		payLoacators.Address.clear();
-		payLoacators.Address.sendKeys(Address);
+		payLoacators.Address.sendKeys(e);
 	}
 	
-	public void Code(String Code ) {
+	public void Code(String f ) {
 		payLoacators.Code.clear();
-		payLoacators.Code.sendKeys(Code);
+		payLoacators.Code.sendKeys(f);
 	}
 	
 	
@@ -64,21 +64,24 @@ PaymentLocators payLoacators;
 	public void StateTamil() {
 		payLoacators.StateTamil.click();
 	}
-	public void City(String City ) {
+	public void City(String k ) {
 		payLoacators.City.clear();
-		payLoacators.City.sendKeys(City,Keys.TAB);
+		payLoacators.City.sendKeys(k,Keys.TAB);
 		
 		}
 	
-	public void Mobile(String Mobile ) {
+	public void Mobile(String l ) {
 		payLoacators.Mobile.clear();
-		payLoacators.Mobile.sendKeys(Mobile);
+		payLoacators.Mobile.sendKeys(l);
 	}
+//	public void clickCheckBox( ) {
+//		payLoacators.CheckBox.click();
+//	}
 	public void clickContinee() {
-		payLoacators.Continue2.click();
+		payLoacators.Continee.click();
 	}
 	public void clickContineee( ) {
-		payLoacators.Continue3.click();
+		payLoacators.Contineee.click();
 	}
 	public void clickPayNow( ) {
 		payLoacators.PayNow.click();
