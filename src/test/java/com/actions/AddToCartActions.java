@@ -48,3 +48,4 @@ public class AddToCartActions {
 		return cartLocators.empty.getText();
 	}
 }
+//Aarthi comments
