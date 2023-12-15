@@ -15,7 +15,7 @@ public class AddToCartActions {
 		PageFactory.initElements(Helper_Class.getDriver(), cartLocators);
 		
 	}
-	public void Search(String a ) {
+	//public void Search(String a ) {
 		cartLocators.search.sendKeys(a);
 	}
 	public void clickSearc( ) {
