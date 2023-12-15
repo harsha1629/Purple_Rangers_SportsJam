@@ -1,29 +1,33 @@
 package com.utility;
 import java.time.Duration;
-
+ 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.JavascriptExecutor;
-
+ 
 public class Helper_Class {
 	public static Helper_Class helperclass;
 	public static WebDriver driver;	
+	public static WebDriverWait wait =null;
 	public final static int TIMEOUT = 10;
 	public static Logger log = null;
 	public static Actions actions ;
 	public static JavascriptExecutor jse;
-	//constructor
-	Helper_Class(){  //setup
+	
+	Helper_Class(){  
 		driver = new EdgeDriver();
 		jse = (JavascriptExecutor)driver;
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TIMEOUT));
 		driver.manage().window().maximize();
 		actions = new Actions(driver);
+		wait= new WebDriverWait(driver,Duration.ofSeconds(TIMEOUT));
 		log = LogManager.getLogger(Helper_Class.class);
 	}
+	
 	public static void openPage(String url) {
 		driver.get(url);		
 		log.info("User in SportsJam Home page");
@@ -44,6 +48,6 @@ public class Helper_Class {
 		}
 		helperclass = null;
 	}
-
+ 
  
 }

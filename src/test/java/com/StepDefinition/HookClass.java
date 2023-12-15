@@ -1,7 +1,5 @@
 package com.StepDefinition;
-
-
-
+ 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
  
@@ -18,10 +16,10 @@ public class HookClass {
 	}
 	@After
 	public static void tearDown(Scenario scenario) {
-//		if(scenario.isFailed()) {
-//			final byte[]screenshot = ((TakesScreenshot) Helper_Class.getDriver()).getScreenshotAs(OutputType.BYTES);
-//			scenario.attach(screenshot,"image/png",scenario.getName());
-//		}
-//		Helper_Class.tearDown();
+		if(scenario.isFailed()) {
+			final byte[]screenshot = ((TakesScreenshot) Helper_Class.getDriver()).getScreenshotAs(OutputType.BYTES);
+			scenario.attach(screenshot,"image/png",scenario.getName());
+		}
+		Helper_Class.tearDown();
 	}
 }

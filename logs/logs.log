@@ -1,16 +1,10 @@
-[INFO ] 2023-11-29 16:02:33.019 [main] Helper_Class - User in SportsJam Home page
-[INFO ] 2023-11-29 16:02:33.025 [main] Helper_Class - User is in the home page.
-[INFO ] 2023-11-29 16:02:33.855 [main] Helper_Class - User clicks the about us option
-[INFO ] 2023-11-29 16:03:06.055 [main] Helper_Class - User is shown Hello Striker message
-[INFO ] 2023-11-29 16:03:07.961 [main] Helper_Class - User in SportsJam Home page
-[INFO ] 2023-11-29 16:03:07.962 [main] Helper_Class - User is in the home page.
-[INFO ] 2023-11-29 16:03:08.133 [main] Helper_Class - User clicks the contach us option
-[INFO ] 2023-11-29 16:03:49.189 [main] Helper_Class - User is shown Inquiry & Feedback Form option
-[INFO ] 2023-11-29 16:03:50.469 [main] Helper_Class - User in SportsJam Home page
-[INFO ] 2023-11-29 16:03:50.470 [main] Helper_Class - User is in the home page.
-[INFO ] 2023-11-29 16:03:50.639 [main] Helper_Class - User clicks the inqury/feedback option
-[INFO ] 2023-11-29 16:03:51.636 [main] Helper_Class - User is shown 
-[INFO ] 2023-11-29 16:03:52.567 [main] Helper_Class - User in SportsJam Home page
-[INFO ] 2023-11-29 16:03:52.567 [main] Helper_Class - User is in the home page.
-[INFO ] 2023-11-29 16:03:52.744 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
-[INFO ] 2023-11-29 16:04:06.024 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-29 14:46:50.938 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:46:51.034 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:46:54.106 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:46:56.079 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:46:56.146 [main] Helper_Class - add the product to cart
+[INFO ] 2023-11-29 14:46:59.340 [main] Helper_Class - click the cart
+[INFO ] 2023-11-29 14:47:01.233 [main] Helper_Class - proceed to pay
+[INFO ] 2023-11-29 14:47:01.451 [main] Helper_Class - enter the email password and click
+[INFO ] 2023-11-29 14:47:07.888 [main] Helper_Class - enter name adress and click
+[INFO ] 2023-11-29 14:47:10.046 [main] Helper_Class - verifying order details
