@@ -20,7 +20,7 @@ public class PaymentLocators {
 	public WebElement Password;
 	
 	@FindBy(id = "Step1continue")
-	public WebElement Continue1;
+	public WebElement Continue;
 	
 	@FindBy(xpath ="//input[@id='ShipFirstName']")
 	public WebElement Name;
@@ -56,12 +56,12 @@ public class PaymentLocators {
 
 	
 	@FindBy(xpath="//input[@id='Step2continue']")
-	public WebElement Continue2;
+	public WebElement Continee;
 	
 	@FindBy(xpath="(//input[@id='Step3continue'])[1]")
-	public WebElement Continue3;
+	public WebElement Contineee;
 	
-	@FindBy(xpath="//input[@id='Step4continue']")
+	@FindBy(xpath="(//input[@class='mj_btnbg'])[6]")
 	public WebElement PayNow;
 	
 	@FindBy(xpath="//span[text()='Billing Information']")

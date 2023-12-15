@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 3 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Default_suite" class="navigator-link">
-              <span class="suite-name border-passed">Default suite</span>
+              <span class="suite-name border-failed">Default suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Default_suite" class="navigator-link ">
-                    <span>C:\Users\akumaresan2\AppData\Local\Temp\testng-eclipse-1294668232\testng-customsuite.xml</span>
+                    <span>C:\Users\vbalamurugan\AppData\Local\Temp\testng-eclipse-894132732\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,7 +92,31 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">3 methods,   3 passed</span>
+                    <span class="method-stats">19 methods, 3 failed,   16 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods failed suite-Default_suite"> (hide)</a> <!-- hide-methods failed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods failed suite-Default_suite"> (show)</a> <!-- show-methods failed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Default_suite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User trying to create Account using valid details&quot;, &quot;Creating Account in SportsJam&quot;)">runScenario("User trying to create Account using valid details", "Creating Account in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User Searching for Football shoes&quot;, &quot;Checking Availability of Football Shoes&quot;)">runScenario("User Searching for Football shoes", "Checking Availability of Football Shoes")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Adding items to Cart&quot;, &quot;user wants to Clicking the AddToCart and Delete from Cart in SportsJam&quot;)">runScenario("Adding items to Cart", "user wants to Clicking the AddToCart and Delete from Cart in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Default_suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,17 +127,82 @@
                     <div class="method-list-content passed suite-Default_suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Default_suite" title="runner.TestAddToCartTestNG" class="method navigator-link" hash-for-method="runScenario(&quot;Adding items to Cart&quot;, &quot;user wants to Clicking the AddToCart and Delete from Cart in SportsJam&quot;)">runScenario("Adding items to Cart", "user wants to Clicking the AddToCart and Delete from Cart in SportsJam")</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Buying the product using payment option&quot;, &quot;Proceeding with the payment for the product&quot;)">runScenario("Buying the product using payment option", "Proceeding with the payment for the product")</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Default_suite" title="runner.TestAddToCartTestNG" class="method navigator-link" hash-for-method="runScenario(&quot;User clicking customer support&quot;, &quot;Customer Support in SportsJam&quot;)">runScenario("User clicking customer support", "Customer Support in SportsJam")</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User logins to the web application with Invalid credentials&quot;, &quot;Checking the login functionality of ...)">runScenario("User logins to the web application with Invalid credentials", "Checking the login functionality of ...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Default_suite" title="runner.TestAddToCartTestNG" class="method navigator-link" hash-for-method="runScenario(&quot;Buying the product using payment option&quot;, &quot;Proceeding with the payment for the product&quot;)">runScenario("Buying the product using payment option", "Proceeding with the payment for the product")</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User trying to search product&quot;, &quot;Searching product in Sports Tab&quot;)">runScenario("User trying to search product", "Searching product in Sports Tab")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User uses the forgot password feature to recover their password&quot;, &quot;Checking the login functionality...)">runScenario("User uses the forgot password feature to recover their password", "Checking the login functionality...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User Search the product and verify it application&quot;, &quot;Search the product in Sportsjam&quot;)">runScenario("User Search the product and verify it application", "Search the product in Sportsjam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User clicking Instagram&quot;, &quot;Connect With Us in SportsJam&quot;)">runScenario("User clicking Instagram", "Connect With Us in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User clicking contact us&quot;, &quot;Get to know us in SportsJam&quot;)">runScenario("User clicking contact us", "Get to know us in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User clicking Twiiter&quot;, &quot;Connect With Us in SportsJam&quot;)">runScenario("User clicking Twiiter", "Connect With Us in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Looking for product, sorting it and adding filters&quot;, &quot;To select a product and use filters to see if...)">runScenario("Looking for product, sorting it and adding filters", "To select a product and use filters to see if...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User logins to the web application with valid credentials&quot;, &quot;Checking the login functionality of th...)">runScenario("User logins to the web application with valid credentials", "Checking the login functionality of th...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User clicking inqury/feedback&quot;, &quot;Get to know us in SportsJam&quot;)">runScenario("User clicking inqury/feedback", "Get to know us in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User clicking About us&quot;, &quot;Get to know us in SportsJam&quot;)">runScenario("User clicking About us", "Get to know us in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User trying to access My profile in My Account&quot;, &quot;Filling User profile Details in SportsJam&quot;)">runScenario("User trying to access My profile in My Account", "Filling User profile Details in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User clicking sportsjam team&quot;, &quot;Get to know us in SportsJam&quot;)">runScenario("User clicking sportsjam team", "Get to know us in SportsJam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User Search the product and verify it application&quot;, &quot;Search the product in Sportsjam&quot;)">runScenario("User Search the product and verify it application", "Search the product in Sportsjam")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User clicking About us&quot;, &quot;Connect With Us in SportsJam&quot;)">runScenario("User clicking About us", "Connect With Us in SportsJam")</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Default_suite -->
@@ -128,32 +217,149 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Default_suite" class="panel Default_suite">
-          <div class="suite-Default_suite-class-passed">
+          <div class="suite-Default_suite-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">runner.TestAddToCartTestNG</span>
+              <img src="failed.png"/>
+              <span class="class-name">com.Runner.TestRunner</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User trying to create Account using valid details&quot;, &quot;Creating Account in SportsJam&quot;)">
+                  </a> <!-- runScenario("User trying to create Account using valid details", "Creating Account in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User trying to create Account using valid details","Creating Account in SportsJam")</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[text()=&apos;Logout&apos;]&quot;}
+  (Session info: MicrosoftEdge=119.0.2151.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2097fd9a6080d072fb541224bd36e269, findElement {using=xpath, value=//a[text()=&apos;Logout&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56434}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56434/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2097fd9a6080d072fb541224bd36e269
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.getText(Unknown Source)
+	at com.actions.CreateAccountAction.clicklogoutBtn(CreateAccountAction.java:49)
+	at com.StepDefinition.CreateAccountStepDefinition.user_able_to_see_logged_in_page_and_logging_out(CreateAccountStepDefinition.java:41)
+	at ✽.User able to see logged in Page and logging out(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/CreateAccount.feature:11)
+
+</div> <!-- stack-trace -->
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User Searching for Football shoes&quot;, &quot;Checking Availability of Football Shoes&quot;)">
+                  </a> <!-- runScenario("User Searching for Football shoes", "Checking Availability of Football Shoes") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User Searching for Football shoes","Checking Availability of Football Shoes")</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=119.0.2151.72)
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2685aab7cacc27b403d745625d075d33, clickElement {id=634C91BB451962994A16997A79238260_element_161}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59136}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59136/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (2685aab7cacc27b403d745625d075d33)] -&gt; xpath: //a[@id=&apos;Rs_CU00037272-002-1&apos;]]
+Session ID: 2685aab7cacc27b403d745625d075d33
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at jdk.internal.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+	at com.actions.ShoesActions.clicshoescategory(ShoesActions.java:43)
+	at com.StepDefinition.ShoesStepDefinition.user_selecting_the_shoes_category(ShoesStepDefinition.java:49)
+	at ✽.User Selecting the Shoes category(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/Shoes.feature:9)
+
+</div> <!-- stack-trace -->
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
                   <a name="runScenario(&quot;Adding items to Cart&quot;, &quot;user wants to Clicking the AddToCart and Delete from Cart in SportsJam&quot;)">
                   </a> <!-- runScenario("Adding items to Cart", "user wants to Clicking the AddToCart and Delete from Cart in SportsJam") -->
                   <span class="method-name">runScenario</span>
                   <span class="parameters">("Adding items to Cart","user wants to Clicking the AddToCart and Delete from Cart in SportsJam")</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//li[@class=&apos;productname&apos;]//child::span[@class=&apos;ptitle&apos;]&quot;}
+  (Session info: MicrosoftEdge=119.0.2151.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f338505b2afec4c3be3902d11807a3a7, findElement {using=xpath, value=//li[@class=&apos;productname&apos;]//child::span[@class=&apos;ptitle&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55958}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55958/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f338505b2afec4c3be3902d11807a3a7
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.getText(Unknown Source)
+	at com.actions.AddToCartActions.getEmptyVerifyText(AddToCartActions.java:50)
+	at com.StepDefinition.AddToCartStepDefinition.the_updated_cart_is_shown(AddToCartStepDefinition.java:86)
+	at ✽.the updated Cart is shown(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/AddToCart.feature:17)
+
+</div> <!-- stack-trace -->
                   <em>
 (Runs Cucumber Scenarios)                  </em>
                 </div> <!-- method-content -->
               </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="runScenario(&quot;User clicking customer support&quot;, &quot;Customer Support in SportsJam&quot;)">
-                  </a> <!-- runScenario("User clicking customer support", "Customer Support in SportsJam") -->
-                  <span class="method-name">runScenario</span>
-                  <span class="parameters">("User clicking customer support","Customer Support in SportsJam")</span>
-                  <em>
-(Runs Cucumber Scenarios)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-failed -->
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.Runner.TestRunner</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
                   <a name="runScenario(&quot;Buying the product using payment option&quot;, &quot;Proceeding with the payment for the product&quot;)">
@@ -164,12 +370,162 @@
 (Runs Cucumber Scenarios)                  </em>
                 </div> <!-- method-content -->
               </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User logins to the web application with Invalid credentials&quot;, &quot;Checking the login functionality of ...)">
+                  </a> <!-- runScenario("User logins to the web application with Invalid credentials", "Checking the login functionality of ...) -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User logins to the web application with Invalid credentials","Checking the login functionality of the sportsjam web application")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User trying to search product&quot;, &quot;Searching product in Sports Tab&quot;)">
+                  </a> <!-- runScenario("User trying to search product", "Searching product in Sports Tab") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User trying to search product","Searching product in Sports Tab")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User uses the forgot password feature to recover their password&quot;, &quot;Checking the login functionality...)">
+                  </a> <!-- runScenario("User uses the forgot password feature to recover their password", "Checking the login functionality...) -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User uses the forgot password feature to recover their password","Checking the login functionality of the sportsjam web application")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User Search the product and verify it application&quot;, &quot;Search the product in Sportsjam&quot;)">
+                  </a> <!-- runScenario("User Search the product and verify it application", "Search the product in Sportsjam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User Search the product and verify it application","Search the product in Sportsjam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User clicking Instagram&quot;, &quot;Connect With Us in SportsJam&quot;)">
+                  </a> <!-- runScenario("User clicking Instagram", "Connect With Us in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User clicking Instagram","Connect With Us in SportsJam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User clicking contact us&quot;, &quot;Get to know us in SportsJam&quot;)">
+                  </a> <!-- runScenario("User clicking contact us", "Get to know us in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User clicking contact us","Get to know us in SportsJam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User clicking Twiiter&quot;, &quot;Connect With Us in SportsJam&quot;)">
+                  </a> <!-- runScenario("User clicking Twiiter", "Connect With Us in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User clicking Twiiter","Connect With Us in SportsJam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;Looking for product, sorting it and adding filters&quot;, &quot;To select a product and use filters to see if...)">
+                  </a> <!-- runScenario("Looking for product, sorting it and adding filters", "To select a product and use filters to see if...) -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("Looking for product, sorting it and adding filters","To select a product and use filters to see if the product gets sorted and displays only limited products")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User logins to the web application with valid credentials&quot;, &quot;Checking the login functionality of th...)">
+                  </a> <!-- runScenario("User logins to the web application with valid credentials", "Checking the login functionality of th...) -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User logins to the web application with valid credentials","Checking the login functionality of the sportsjam web application")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User clicking inqury/feedback&quot;, &quot;Get to know us in SportsJam&quot;)">
+                  </a> <!-- runScenario("User clicking inqury/feedback", "Get to know us in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User clicking inqury/feedback","Get to know us in SportsJam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User clicking About us&quot;, &quot;Get to know us in SportsJam&quot;)">
+                  </a> <!-- runScenario("User clicking About us", "Get to know us in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User clicking About us","Get to know us in SportsJam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User trying to access My profile in My Account&quot;, &quot;Filling User profile Details in SportsJam&quot;)">
+                  </a> <!-- runScenario("User trying to access My profile in My Account", "Filling User profile Details in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User trying to access My profile in My Account","Filling User profile Details in SportsJam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User clicking sportsjam team&quot;, &quot;Get to know us in SportsJam&quot;)">
+                  </a> <!-- runScenario("User clicking sportsjam team", "Get to know us in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User clicking sportsjam team","Get to know us in SportsJam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User Search the product and verify it application&quot;, &quot;Search the product in Sportsjam&quot;)">
+                  </a> <!-- runScenario("User Search the product and verify it application", "Search the product in Sportsjam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User Search the product and verify it application","Search the product in Sportsjam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User clicking About us&quot;, &quot;Connect With Us in SportsJam&quot;)">
+                  </a> <!-- runScenario("User clicking About us", "Connect With Us in SportsJam") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User clicking About us","Connect With Us in SportsJam")</span>
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Default_suite-class-passed -->
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\akumaresan2\AppData\Local\Temp\testng-eclipse-1294668232\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\vbalamurugan\AppData\Local\Temp\testng-eclipse-894132732\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -178,7 +534,7 @@
 &lt;suite name=&quot;Default suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Default test&quot; verbose=&quot;2&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;runner.TestAddToCartTestNG&quot;/&gt;
+      &lt;class name=&quot;com.Runner.TestRunner&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Default test --&gt;
 &lt;/suite&gt; &lt;!-- Default suite --&gt;
@@ -226,24 +582,88 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(3);
+data.addRows(19);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'runScenario')
-data.setCell(0, 2, 'runner.TestAddToCartTestNG')
-data.setCell(0, 3, 179071);
+data.setCell(0, 2, 'com.Runner.TestRunner')
+data.setCell(0, 3, 46997);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'runScenario')
-data.setCell(1, 2, 'runner.TestAddToCartTestNG')
-data.setCell(1, 3, 71567);
+data.setCell(1, 2, 'com.Runner.TestRunner')
+data.setCell(1, 3, 41370);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'runScenario')
-data.setCell(2, 2, 'runner.TestAddToCartTestNG')
-data.setCell(2, 3, 27819);
+data.setCell(2, 2, 'com.Runner.TestRunner')
+data.setCell(2, 3, 31125);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'runScenario')
+data.setCell(3, 2, 'com.Runner.TestRunner')
+data.setCell(3, 3, 28253);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'runScenario')
+data.setCell(4, 2, 'com.Runner.TestRunner')
+data.setCell(4, 3, 28209);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'runScenario')
+data.setCell(5, 2, 'com.Runner.TestRunner')
+data.setCell(5, 3, 24160);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'runScenario')
+data.setCell(6, 2, 'com.Runner.TestRunner')
+data.setCell(6, 3, 23039);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'runScenario')
+data.setCell(7, 2, 'com.Runner.TestRunner')
+data.setCell(7, 3, 22238);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'runScenario')
+data.setCell(8, 2, 'com.Runner.TestRunner')
+data.setCell(8, 3, 22061);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'runScenario')
+data.setCell(9, 2, 'com.Runner.TestRunner')
+data.setCell(9, 3, 17195);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'runScenario')
+data.setCell(10, 2, 'com.Runner.TestRunner')
+data.setCell(10, 3, 16564);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'runScenario')
+data.setCell(11, 2, 'com.Runner.TestRunner')
+data.setCell(11, 3, 15622);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'runScenario')
+data.setCell(12, 2, 'com.Runner.TestRunner')
+data.setCell(12, 3, 12572);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'runScenario')
+data.setCell(13, 2, 'com.Runner.TestRunner')
+data.setCell(13, 3, 12467);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'runScenario')
+data.setCell(14, 2, 'com.Runner.TestRunner')
+data.setCell(14, 3, 12396);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'runScenario')
+data.setCell(15, 2, 'com.Runner.TestRunner')
+data.setCell(15, 3, 11651);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'runScenario')
+data.setCell(16, 2, 'com.Runner.TestRunner')
+data.setCell(16, 3, 10266);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'runScenario')
+data.setCell(17, 2, 'com.Runner.TestRunner')
+data.setCell(17, 3, 10100);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'runScenario')
+data.setCell(18, 2, 'com.Runner.TestRunner')
+data.setCell(18, 3, 6733);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 4 minutes</span>
+              <span class="suite-total-time">Total running time: 6 minutes</span>
               <div id="times-div-Default_suite">
               </div> <!-- times-div-Default_suite -->
             </div> <!-- times-div -->
@@ -269,26 +689,96 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">runner.TestAddToCartTestNG</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.Runner.TestRunner</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setUpClass(org.testng.TestRunner@5b02a984)</span>
+                <span class="method-name">setUpClass(org.testng.TestRunner@56adbb07)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">runScenario("Adding items to Cart", "user wants to Clicking the AddToCart and Delete from Cart in SportsJam")</span>
-                <span class="method-start">923 ms</span>
+                <span class="method-start">938 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <span class="method-name">runScenario("User clicking customer support", "Customer Support in SportsJam")</span>
-                <span class="method-start">28746 ms</span>
+                <span class="method-name">runScenario("User clicking About us", "Connect With Us in SportsJam")</span>
+                <span class="method-start">29157 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User clicking Twiiter", "Connect With Us in SportsJam")</span>
+                <span class="method-start">35892 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User clicking Instagram", "Connect With Us in SportsJam")</span>
+                <span class="method-start">45994 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">runScenario("User trying to create Account using valid details", "Creating Account in SportsJam")</span>
+                <span class="method-start">58464 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("Looking for product, sorting it and adding filters", "To select a product and use filters to see if...)</span>
+                <span class="method-start">81510 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User clicking About us", "Get to know us in SportsJam")</span>
+                <span class="method-start">98079 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User clicking contact us", "Get to know us in SportsJam")</span>
+                <span class="method-start">108347 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User clicking inqury/feedback", "Get to know us in SportsJam")</span>
+                <span class="method-start">120000 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User clicking sportsjam team", "Get to know us in SportsJam")</span>
+                <span class="method-start">135625 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User logins to the web application with valid credentials", "Checking the login functionality of th...)</span>
+                <span class="method-start">148199 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User logins to the web application with Invalid credentials", "Checking the login functionality of ...)</span>
+                <span class="method-start">165396 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User uses the forgot password feature to recover their password", "Checking the login functionality...)</span>
+                <span class="method-start">177794 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User trying to access My profile in My Account", "Filling User profile Details in SportsJam")</span>
+                <span class="method-start">199856 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">runScenario("Buying the product using payment option", "Proceeding with the payment for the product")</span>
-                <span class="method-start">100314 ms</span>
+                <span class="method-start">228112 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User Search the product and verify it application", "Search the product in Sportsjam")</span>
+                <span class="method-start">269484 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User Search the product and verify it application", "Search the product in Sportsjam")</span>
+                <span class="method-start">316495 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">runScenario("User Searching for Football shoes", "Checking Availability of Football Shoes")</span>
+                <span class="method-start">338736 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">runScenario("User trying to search product", "Searching product in Sports Tab")</span>
+                <span class="method-start">369877 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDownClass</span>
-                <span class="method-start">279388 ms</span>
+                <span class="method-start">394365 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

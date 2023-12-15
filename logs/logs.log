@@ -1,10 +1,1163 @@
-[INFO ] 2023-11-29 14:46:50.938 [main] Helper_Class - User in SportsJam Home page
-[INFO ] 2023-11-29 14:46:51.034 [main] Helper_Class - search product
-[INFO ] 2023-11-29 14:46:54.106 [main] Helper_Class - search product
-[INFO ] 2023-11-29 14:46:56.079 [main] Helper_Class - search product
-[INFO ] 2023-11-29 14:46:56.146 [main] Helper_Class - add the product to cart
-[INFO ] 2023-11-29 14:46:59.340 [main] Helper_Class - click the cart
-[INFO ] 2023-11-29 14:47:01.233 [main] Helper_Class - proceed to pay
-[INFO ] 2023-11-29 14:47:01.451 [main] Helper_Class - enter the email password and click
-[INFO ] 2023-11-29 14:47:07.888 [main] Helper_Class - enter name adress and click
-[INFO ] 2023-11-29 14:47:10.046 [main] Helper_Class - verifying order details
+[INFO ] 2023-11-20 16:48:49.530 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:48:49.639 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-20 16:48:59.841 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-20 16:49:03.192 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:49:04.737 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-20 16:49:21.396 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:49:21.664 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-20 16:49:24.459 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-20 16:49:30.692 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:49:30.966 [main] Helper_Class - User Clicks the YouTube Image
+[INFO ] 2023-11-20 16:53:10.932 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:53:11.053 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-20 16:53:12.528 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-20 16:53:17.427 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:53:17.665 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-20 16:53:22.011 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-20 16:53:27.687 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:53:27.868 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-20 16:53:30.739 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-20 16:53:36.388 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-20 16:53:36.568 [main] Helper_Class - User Clicks the YouTube Image
+[INFO ] 2023-11-21 10:37:20.097 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:37:23.744 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 10:37:27.106 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 10:37:30.050 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 10:37:31.665 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 10:37:31.729 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 10:37:36.614 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:37:36.833 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 10:37:38.032 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 10:40:46.868 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:40:47.070 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 10:40:49.675 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 10:40:52.009 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 10:40:53.191 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 10:40:53.281 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 10:40:58.418 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:40:58.537 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 10:40:59.513 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 10:41:02.214 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 10:41:04.135 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 10:41:04.171 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 10:55:34.103 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:55:34.308 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 10:55:37.947 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 10:55:43.376 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:55:43.575 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 10:55:51.899 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 10:55:57.443 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:55:57.624 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 10:56:00.530 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 10:56:06.702 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:56:07.025 [main] Helper_Class - User Clicks the YouTube Image
+[INFO ] 2023-11-21 10:56:48.689 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:57:44.884 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 10:58:43.727 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:23:03.120 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:23:09.127 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 11:23:10.869 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 11:23:15.090 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 11:23:18.569 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 11:23:18.646 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 11:23:24.624 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:23:24.813 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 11:23:26.184 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 11:23:30.364 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 11:23:30.486 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 11:23:30.529 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 11:37:40.289 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:40.514 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 11:37:42.137 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 11:37:49.625 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:37:49.993 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 11:37:57.574 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 11:38:03.337 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:38:03.582 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 11:38:09.204 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 11:38:15.893 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:38:16.165 [main] Helper_Class - User Clicks the YouTube Image
+[INFO ] 2023-11-21 11:38:38.685 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:38:39.178 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 11:38:41.934 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 11:38:49.042 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 11:38:53.218 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 11:38:53.387 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 11:39:04.293 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 11:39:04.606 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 11:39:08.563 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 11:39:10.572 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 11:39:13.751 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 11:39:13.829 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 11:39:27.161 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:16:27.075 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:16:27.290 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 12:16:32.167 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 12:16:38.233 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:16:38.502 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 12:16:43.750 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 12:16:50.498 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:16:50.652 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 12:16:53.916 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 12:17:07.089 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:17:07.611 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 12:17:12.871 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 12:17:16.525 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 12:17:18.775 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 12:17:18.834 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 12:17:29.342 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 12:17:29.680 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 12:17:31.517 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 12:17:39.128 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 12:17:42.860 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 12:17:42.930 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 12:18:02.088 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:12:00.101 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:12:01.677 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 13:12:03.049 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 13:12:09.069 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:12:09.324 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 13:12:14.095 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 13:12:22.066 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:12:22.583 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 13:12:27.439 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 13:12:39.109 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:12:39.671 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 13:12:44.694 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 13:12:49.528 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 13:12:52.137 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 13:12:52.409 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 13:13:01.325 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 13:13:01.508 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 13:13:03.111 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 13:13:06.484 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 13:13:09.105 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 13:13:09.166 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 13:13:24.771 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:20:20.894 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:20:21.035 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 14:20:26.784 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 14:20:33.695 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:20:33.869 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 14:20:41.592 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 14:20:53.870 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:20:54.084 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 14:21:00.125 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 14:21:10.562 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:21:14.881 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 14:21:20.198 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 14:21:22.416 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 14:21:26.359 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 14:21:26.403 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 14:21:51.264 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:32:54.626 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:32:54.819 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 14:32:56.232 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 14:33:00.105 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:33:02.817 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 14:33:06.975 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 14:33:13.016 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:33:13.163 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 14:33:15.977 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 14:33:27.674 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:33:27.968 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 14:33:29.785 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 14:33:32.214 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 14:33:34.369 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 14:33:34.461 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 14:33:43.081 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:33:43.233 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 14:33:46.210 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 14:33:47.460 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 14:33:49.626 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 14:33:49.674 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 14:34:03.302 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:53:55.548 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:53:55.718 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 14:53:57.212 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 14:54:03.207 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:54:03.356 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 14:54:10.148 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 14:54:16.840 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:54:17.032 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 14:54:20.523 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 14:54:33.439 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:54:33.999 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 14:54:38.322 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 14:54:40.950 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 14:54:43.039 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 14:54:43.253 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 14:54:50.873 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:54:53.069 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 14:54:54.455 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 14:55:00.922 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 14:55:03.683 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 14:55:03.767 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 14:55:16.917 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:57:11.692 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:57:12.126 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 14:57:14.251 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 14:57:21.928 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:57:22.169 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 14:57:27.869 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 14:57:35.896 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:57:36.105 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 14:57:39.190 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 14:58:38.241 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 14:58:38.662 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 15:00:36.908 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 15:00:39.339 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 15:01:01.868 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 15:01:01.950 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 15:01:10.144 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:01:10.305 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 15:01:13.851 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 15:01:17.911 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 15:01:48.712 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 15:01:48.774 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 15:02:31.886 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:50:06.719 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:50:06.818 [main] Helper_Class - search product
+[INFO ] 2023-11-21 15:50:08.032 [main] Helper_Class - search product
+[INFO ] 2023-11-21 15:50:11.067 [main] Helper_Class - search product
+[INFO ] 2023-11-21 15:50:13.354 [main] Helper_Class - search product
+[INFO ] 2023-11-21 15:50:14.499 [main] Helper_Class - second product
+[INFO ] 2023-11-21 15:50:14.592 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-21 15:50:15.622 [main] Helper_Class - click the cart
+[INFO ] 2023-11-21 15:50:15.719 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-21 15:50:30.862 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:50:30.988 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 15:50:32.782 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 15:50:37.997 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:50:38.185 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 15:50:43.672 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 15:50:53.869 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:50:54.061 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 15:50:59.965 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 15:51:07.895 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:51:11.401 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-21 15:51:12.706 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-21 15:51:12.986 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-21 15:51:15.933 [main] Helper_Class - User is in Home Page and Logging Out
+[INFO ] 2023-11-21 15:51:22.423 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:51:22.424 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 15:51:22.685 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 15:51:24.748 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 15:51:25.342 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 15:51:26.006 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 15:51:29.147 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 15:51:36.309 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:51:36.309 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 15:51:37.479 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 15:51:38.401 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 15:51:46.007 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:51:46.007 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 15:51:46.334 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 15:51:48.047 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 15:51:59.368 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:51:59.368 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 15:51:59.790 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 15:52:01.548 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 15:52:08.937 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:52:08.938 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 15:52:11.546 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 15:52:14.151 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 15:52:26.453 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:52:26.454 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 15:52:26.893 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 15:52:28.170 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 15:52:28.580 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 15:52:29.816 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 15:52:40.984 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:52:40.984 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 15:52:41.141 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 15:52:41.709 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 15:52:42.022 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 15:52:42.267 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 15:52:55.816 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:52:55.816 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 15:52:56.170 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 15:52:57.879 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 15:52:58.865 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 15:52:58.872 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 15:52:58.926 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 15:53:03.415 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 15:53:04.483 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 15:53:04.841 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 15:53:17.910 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-21 15:53:18.362 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 15:53:18.368 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 15:53:21.904 [main] Helper_Class - Signing In
+[INFO ] 2023-11-21 15:53:23.230 [main] Helper_Class - Updating Profile
+[INFO ] 2023-11-21 15:53:23.420 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-21 15:53:23.656 [main] Helper_Class - Verifying successfully updated message
+[INFO ] 2023-11-21 15:53:23.906 [main] Helper_Class - Viewing orders we placed
+[INFO ] 2023-11-21 15:53:25.901 [main] Helper_Class - Order from Date and To Date
+[INFO ] 2023-11-21 15:53:26.018 [main] Helper_Class - Clicking search option to view Orders
+[INFO ] 2023-11-21 15:53:26.120 [main] Helper_Class - List of Orders will be displayed
+[INFO ] 2023-11-21 15:53:26.238 [main] Helper_Class - Shopping List
+[INFO ] 2023-11-21 15:53:26.633 [main] Helper_Class - No products available
+[INFO ] 2023-11-21 15:53:26.845 [main] Helper_Class - Viewing Shopping Cart
+[INFO ] 2023-11-21 15:53:27.112 [main] Helper_Class - Saved Cart
+[INFO ] 2023-11-21 15:53:27.287 [main] Helper_Class - Click Saved addresses
+[INFO ] 2023-11-21 15:53:27.526 [main] Helper_Class - Address
+[INFO ] 2023-11-21 15:53:36.593 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:53:36.871 [main] Helper_Class - search product
+[INFO ] 2023-11-21 15:53:41.232 [main] Helper_Class - search product
+[INFO ] 2023-11-21 15:53:43.888 [main] Helper_Class - search product
+[INFO ] 2023-11-21 15:53:44.001 [main] Helper_Class - add the product to cart
+[INFO ] 2023-11-21 15:53:45.694 [main] Helper_Class - click the cart
+[INFO ] 2023-11-21 15:53:48.427 [main] Helper_Class - proceed to pay
+[INFO ] 2023-11-21 15:53:48.746 [main] Helper_Class - enter the email password and click
+[INFO ] 2023-11-21 15:53:53.804 [main] Helper_Class - enter name adress and click
+[INFO ] 2023-11-21 15:53:56.116 [main] Helper_Class - verifying order details
+[INFO ] 2023-11-21 15:54:14.672 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:54:15.170 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 15:54:20.830 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 15:54:28.127 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 15:54:30.622 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 15:54:30.962 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 15:54:49.996 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:54:50.544 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 15:54:55.584 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 15:55:01.763 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 15:55:05.153 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 15:55:05.264 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 15:55:20.102 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 15:55:39.031 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-21 15:55:40.550 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 15:55:40.577 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 15:55:48.900 [main] Helper_Class - Signing In
+[INFO ] 2023-11-21 15:55:55.178 [main] Helper_Class - User trying To Search Product
+[INFO ] 2023-11-21 15:55:56.056 [main] Helper_Class - Price is given from Low to High
+[INFO ] 2023-11-21 15:56:01.688 [main] Helper_Class - Getting Product which we Searched as grid view
+[INFO ] 2023-11-21 16:01:51.536 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:01:52.207 [main] Helper_Class - search product
+[INFO ] 2023-11-21 16:01:57.847 [main] Helper_Class - search product
+[INFO ] 2023-11-21 16:02:13.749 [main] Helper_Class - search product
+[INFO ] 2023-11-21 16:02:19.526 [main] Helper_Class - search product
+[INFO ] 2023-11-21 16:02:23.323 [main] Helper_Class - second product
+[INFO ] 2023-11-21 16:02:23.571 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-21 16:02:27.124 [main] Helper_Class - click the cart
+[INFO ] 2023-11-21 16:02:27.291 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-21 16:02:45.251 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:02:45.631 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 16:02:48.945 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 16:03:13.182 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:03:14.015 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 16:03:39.244 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:03:40.533 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 16:03:46.003 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 16:03:58.086 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:04:01.091 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-21 16:04:03.893 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-21 16:04:04.651 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-21 16:04:07.202 [main] Helper_Class - User is in Home Page and Logging Out
+[INFO ] 2023-11-21 16:04:24.851 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:04:24.852 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 16:04:25.596 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 16:04:30.591 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 16:04:31.770 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 16:04:32.409 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 16:04:36.300 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 16:04:51.466 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:04:51.467 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 16:04:53.552 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 16:04:56.821 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 16:05:15.419 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:05:15.419 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 16:05:15.849 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 16:05:19.630 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 16:05:46.709 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:05:46.712 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 16:05:48.371 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 16:05:53.937 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 16:06:33.017 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:06:33.056 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 16:06:48.066 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 16:06:59.681 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 16:15:33.798 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:15:34.177 [main] Helper_Class - search product
+[INFO ] 2023-11-21 16:15:37.348 [main] Helper_Class - search product
+[INFO ] 2023-11-21 16:15:38.729 [main] Helper_Class - search product
+[INFO ] 2023-11-21 16:15:45.266 [main] Helper_Class - search product
+[INFO ] 2023-11-21 16:28:11.586 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:28:11.772 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 16:28:13.364 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 16:28:15.949 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 16:28:17.554 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 16:28:17.625 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 16:28:23.739 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 16:28:23.943 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 16:28:26.536 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 16:28:27.542 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 16:28:27.926 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 16:28:29.378 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 17:28:43.346 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:28:43.576 [main] Helper_Class - search product
+[INFO ] 2023-11-21 17:28:45.204 [main] Helper_Class - search product
+[INFO ] 2023-11-21 17:28:49.315 [main] Helper_Class - search product
+[INFO ] 2023-11-21 17:28:52.958 [main] Helper_Class - search product
+[INFO ] 2023-11-21 17:28:54.836 [main] Helper_Class - second product
+[INFO ] 2023-11-21 17:28:55.264 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-21 17:28:56.318 [main] Helper_Class - click the cart
+[INFO ] 2023-11-21 17:28:56.543 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-21 17:29:13.094 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:29:13.405 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-21 17:29:16.130 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-21 17:29:24.215 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:29:24.544 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-21 17:29:31.080 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-21 17:29:39.874 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:29:40.496 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-21 17:29:43.724 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-21 17:29:54.334 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:29:56.062 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-21 17:29:57.132 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-21 17:29:57.442 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-21 17:29:59.414 [main] Helper_Class - User is in Home Page and Logging Out
+[INFO ] 2023-11-21 17:30:07.401 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:30:07.401 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 17:30:08.011 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-21 17:30:10.263 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-21 17:30:10.885 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-21 17:30:11.540 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-21 17:30:15.380 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-21 17:30:24.701 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:30:24.702 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 17:30:25.584 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-21 17:30:27.396 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-21 17:30:38.709 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:30:38.709 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 17:30:39.637 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-21 17:30:42.764 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-21 17:30:52.036 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:30:52.037 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 17:30:56.218 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-21 17:30:58.963 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-21 17:31:15.445 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:31:15.445 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 17:31:16.327 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-21 17:31:19.987 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-21 17:31:36.724 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:31:36.724 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 17:31:37.165 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 17:31:38.480 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-21 17:31:38.933 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 17:31:40.753 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-21 17:31:54.924 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:31:54.925 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 17:31:55.285 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 17:31:56.525 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-21 17:31:56.773 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-21 17:31:56.922 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-21 17:32:10.394 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:32:10.396 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-21 17:32:11.027 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-21 17:32:13.364 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-21 17:32:15.573 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:32:15.578 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-21 17:32:15.650 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:32:18.359 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-21 17:32:19.520 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-21 17:32:19.794 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-21 17:32:35.148 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-21 17:32:35.498 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:32:35.501 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:32:40.044 [main] Helper_Class - Signing In
+[INFO ] 2023-11-21 17:32:41.372 [main] Helper_Class - Updating Profile
+[INFO ] 2023-11-21 17:32:41.718 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-21 17:32:42.065 [main] Helper_Class - Verifying successfully updated message
+[INFO ] 2023-11-21 17:32:42.210 [main] Helper_Class - Viewing orders we placed
+[INFO ] 2023-11-21 17:32:43.285 [main] Helper_Class - Order from Date and To Date
+[INFO ] 2023-11-21 17:32:43.417 [main] Helper_Class - Clicking search option to view Orders
+[INFO ] 2023-11-21 17:32:43.529 [main] Helper_Class - List of Orders will be displayed
+[INFO ] 2023-11-21 17:32:43.707 [main] Helper_Class - Shopping List
+[INFO ] 2023-11-21 17:32:43.916 [main] Helper_Class - No products available
+[INFO ] 2023-11-21 17:32:44.025 [main] Helper_Class - Viewing Shopping Cart
+[INFO ] 2023-11-21 17:32:44.303 [main] Helper_Class - Saved Cart
+[INFO ] 2023-11-21 17:32:44.601 [main] Helper_Class - Click Saved addresses
+[INFO ] 2023-11-21 17:32:45.143 [main] Helper_Class - Address
+[INFO ] 2023-11-21 17:32:57.843 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:32:57.971 [main] Helper_Class - search product
+[INFO ] 2023-11-21 17:33:03.281 [main] Helper_Class - search product
+[INFO ] 2023-11-21 17:33:05.103 [main] Helper_Class - search product
+[INFO ] 2023-11-21 17:33:05.432 [main] Helper_Class - add the product to cart
+[INFO ] 2023-11-21 17:33:07.571 [main] Helper_Class - click the cart
+[INFO ] 2023-11-21 17:33:11.848 [main] Helper_Class - proceed to pay
+[INFO ] 2023-11-21 17:33:12.494 [main] Helper_Class - enter the email password and click
+[INFO ] 2023-11-21 17:33:16.632 [main] Helper_Class - enter name adress and click
+[INFO ] 2023-11-21 17:33:18.983 [main] Helper_Class - verifying order details
+[INFO ] 2023-11-21 17:33:40.980 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:33:41.878 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-21 17:33:44.246 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 17:33:52.473 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 17:33:55.061 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-21 17:33:55.152 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-21 17:34:05.750 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:34:05.907 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-21 17:34:09.907 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-21 17:34:11.845 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-21 17:34:15.355 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-21 17:34:15.422 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-21 17:34:39.912 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-21 17:35:02.354 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-21 17:35:02.776 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-21 17:35:02.791 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-21 17:35:08.602 [main] Helper_Class - Signing In
+[INFO ] 2023-11-21 17:35:14.516 [main] Helper_Class - User trying To Search Product
+[INFO ] 2023-11-21 17:35:15.141 [main] Helper_Class - Price is given from Low to High
+[INFO ] 2023-11-21 17:35:17.328 [main] Helper_Class - Getting Product which we Searched as grid view
+[INFO ] 2023-11-22 12:50:59.859 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:50:59.992 [main] Helper_Class - search product
+[INFO ] 2023-11-22 12:51:01.710 [main] Helper_Class - search product
+[INFO ] 2023-11-22 12:51:08.752 [main] Helper_Class - search product
+[INFO ] 2023-11-22 12:51:14.384 [main] Helper_Class - search product
+[INFO ] 2023-11-22 12:51:17.175 [main] Helper_Class - second product
+[INFO ] 2023-11-22 12:51:17.420 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-22 12:51:18.877 [main] Helper_Class - click the cart
+[INFO ] 2023-11-22 12:51:19.250 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-22 12:51:34.188 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:51:37.850 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-22 12:51:40.801 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-22 12:51:46.988 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:51:47.266 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-22 12:51:52.955 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-22 12:51:59.576 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:51:59.896 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-22 12:52:05.313 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-22 12:52:13.579 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:52:15.303 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-22 12:52:15.971 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-22 12:52:16.206 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-22 12:52:35.038 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:52:35.039 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 12:52:35.280 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-22 12:52:37.273 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-22 12:52:37.616 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-22 12:52:38.448 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-22 12:52:41.694 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-22 12:52:52.610 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:52:52.610 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 12:52:53.303 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-22 12:52:54.963 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-22 12:53:07.586 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:53:07.586 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 12:53:08.317 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-22 12:53:11.322 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-22 12:53:24.345 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:53:24.346 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 12:53:25.776 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-22 12:53:28.122 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-22 12:53:39.297 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:53:39.297 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 12:53:39.752 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-22 12:53:41.742 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-22 12:53:52.257 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:53:52.257 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 12:53:52.575 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 12:53:54.364 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-22 12:53:54.963 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-22 12:53:56.963 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-22 12:54:13.949 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:54:13.949 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 12:54:14.886 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 12:54:19.632 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-22 12:54:20.582 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-22 12:54:21.134 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-22 12:54:35.208 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 12:54:35.208 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 12:54:36.498 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 15:38:41.175 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:38:41.320 [main] Helper_Class - search product
+[INFO ] 2023-11-22 15:38:42.608 [main] Helper_Class - search product
+[INFO ] 2023-11-22 15:38:46.747 [main] Helper_Class - search product
+[INFO ] 2023-11-22 15:38:47.685 [main] Helper_Class - search product
+[INFO ] 2023-11-22 15:38:50.619 [main] Helper_Class - second product
+[INFO ] 2023-11-22 15:38:50.701 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-22 15:38:51.824 [main] Helper_Class - click the cart
+[INFO ] 2023-11-22 15:38:51.994 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-22 15:38:58.874 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:38:59.123 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-22 15:39:01.011 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-22 15:39:09.430 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:39:09.624 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-22 15:39:16.086 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-22 15:39:23.781 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:39:24.028 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-22 15:39:29.085 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-22 15:39:37.500 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:39:39.019 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-22 15:39:39.974 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-22 15:39:40.192 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-22 15:40:00.218 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:40:00.219 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 15:40:00.603 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-22 15:40:02.656 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-22 15:40:03.104 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-22 15:40:03.633 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-22 15:40:06.985 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-22 15:40:13.979 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:40:13.979 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 15:40:16.066 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-22 15:40:17.465 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-22 15:40:29.512 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:40:29.513 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 15:40:30.115 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-22 15:40:35.864 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-22 15:40:48.543 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:40:48.543 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 15:40:49.065 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-22 15:40:53.927 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-22 15:41:07.065 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:41:07.065 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 15:41:07.512 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-22 15:41:09.374 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-22 15:41:20.280 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:41:20.281 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 15:41:20.569 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 15:41:21.429 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-22 15:41:21.985 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-22 15:41:23.382 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-22 15:41:35.353 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:41:35.355 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 15:41:35.613 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 15:41:36.490 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-22 15:41:36.701 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-22 15:41:37.168 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-22 15:41:48.925 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:41:48.925 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 15:41:49.382 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 15:41:51.861 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-22 15:41:55.241 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 15:41:55.250 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-22 15:41:55.339 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 15:41:58.384 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-22 15:42:00.940 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-22 15:42:01.049 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-22 15:42:09.557 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-22 15:42:13.079 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 15:42:13.081 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 15:42:17.705 [main] Helper_Class - Signing In
+[INFO ] 2023-11-22 15:42:18.978 [main] Helper_Class - Updating Profile
+[INFO ] 2023-11-22 15:42:19.337 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-22 15:42:19.512 [main] Helper_Class - Verifying successfully updated message
+[INFO ] 2023-11-22 15:42:19.646 [main] Helper_Class - Viewing orders we placed
+[INFO ] 2023-11-22 15:42:20.473 [main] Helper_Class - Order from Date and To Date
+[INFO ] 2023-11-22 15:42:20.556 [main] Helper_Class - Clicking search option to view Orders
+[INFO ] 2023-11-22 15:42:54.260 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:42:54.491 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-22 15:43:04.700 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-22 15:43:10.005 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-22 15:43:14.921 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-22 15:43:15.020 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-22 15:43:22.059 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:43:22.296 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-22 15:43:23.951 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-22 15:43:25.916 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-22 15:43:29.578 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-22 15:43:29.627 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-22 15:43:50.371 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:44:12.974 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-22 15:44:13.348 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 15:44:13.396 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 15:44:20.031 [main] Helper_Class - Signing In
+[INFO ] 2023-11-22 15:44:26.052 [main] Helper_Class - User trying To Search Product
+[INFO ] 2023-11-22 15:44:26.394 [main] Helper_Class - Price is given from Low to High
+[INFO ] 2023-11-22 15:44:28.533 [main] Helper_Class - Getting Product which we Searched as grid view
+[INFO ] 2023-11-22 15:59:34.484 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 15:59:34.656 [main] Helper_Class - search product
+[INFO ] 2023-11-22 15:59:37.960 [main] Helper_Class - search product
+[INFO ] 2023-11-22 15:59:47.735 [main] Helper_Class - search product
+[INFO ] 2023-11-22 15:59:53.140 [main] Helper_Class - search product
+[INFO ] 2023-11-22 15:59:54.917 [main] Helper_Class - second product
+[INFO ] 2023-11-22 15:59:55.044 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-22 15:59:59.540 [main] Helper_Class - click the cart
+[INFO ] 2023-11-22 15:59:59.695 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-22 16:00:16.884 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:00:17.077 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-22 16:00:19.052 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-22 16:00:29.950 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:00:30.513 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-22 16:00:37.139 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-22 16:00:42.870 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:00:46.308 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-22 16:00:52.035 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-22 16:00:59.918 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:01:02.612 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-22 16:01:03.539 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-22 16:01:03.707 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-22 16:01:05.253 [main] Helper_Class - User is in Home Page and Logging Out
+[INFO ] 2023-11-22 16:01:16.232 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:01:16.233 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:01:16.464 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-22 16:01:19.932 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-22 16:01:20.390 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-22 16:01:20.957 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-22 16:01:24.318 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-22 16:01:33.629 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:01:33.629 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:01:33.951 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-22 16:01:35.298 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-22 16:01:43.811 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:01:43.811 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:01:44.094 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-22 16:01:45.694 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-22 16:01:57.160 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:01:57.160 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:01:57.460 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-22 16:02:01.894 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-22 16:02:18.815 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:02:18.816 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:02:19.088 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-22 16:02:34.879 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-22 16:02:45.353 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:02:45.354 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:02:45.710 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 16:02:46.393 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-22 16:02:46.789 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-22 16:02:48.501 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-22 16:03:22.022 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:03:22.023 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:03:22.367 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 16:03:22.950 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-22 16:03:23.188 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-22 16:03:23.253 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-22 16:03:32.482 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:03:32.482 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:03:32.942 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-22 16:03:34.538 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-22 16:03:35.264 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 16:03:35.271 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-22 16:03:35.347 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 16:03:38.295 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-22 16:03:38.437 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-22 16:03:49.252 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-22 16:03:49.616 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 16:03:49.619 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 16:03:53.338 [main] Helper_Class - Signing In
+[INFO ] 2023-11-22 16:03:55.188 [main] Helper_Class - Updating Profile
+[INFO ] 2023-11-22 16:03:55.683 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-22 16:03:56.122 [main] Helper_Class - Verifying successfully updated message
+[INFO ] 2023-11-22 16:03:56.473 [main] Helper_Class - Viewing orders we placed
+[INFO ] 2023-11-22 16:04:01.207 [main] Helper_Class - Order from Date and To Date
+[INFO ] 2023-11-22 16:04:01.338 [main] Helper_Class - Clicking search option to view Orders
+[INFO ] 2023-11-22 16:04:01.521 [main] Helper_Class - List of Orders will be displayed
+[INFO ] 2023-11-22 16:04:01.692 [main] Helper_Class - Shopping List
+[INFO ] 2023-11-22 16:04:02.072 [main] Helper_Class - No products available
+[INFO ] 2023-11-22 16:04:02.206 [main] Helper_Class - Viewing Shopping Cart
+[INFO ] 2023-11-22 16:04:02.451 [main] Helper_Class - Saved Cart
+[INFO ] 2023-11-22 16:04:02.614 [main] Helper_Class - Click Saved addresses
+[INFO ] 2023-11-22 16:04:06.871 [main] Helper_Class - Address
+[INFO ] 2023-11-22 16:04:17.956 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:04:18.276 [main] Helper_Class - search product
+[INFO ] 2023-11-22 16:04:32.592 [main] Helper_Class - search product
+[INFO ] 2023-11-22 16:04:39.292 [main] Helper_Class - search product
+[INFO ] 2023-11-22 16:04:40.086 [main] Helper_Class - add the product to cart
+[INFO ] 2023-11-22 16:05:01.537 [main] Helper_Class - click the cart
+[INFO ] 2023-11-22 16:05:33.968 [main] Helper_Class - proceed to pay
+[INFO ] 2023-11-22 16:05:34.354 [main] Helper_Class - enter the email password and click
+[INFO ] 2023-11-22 16:05:43.306 [main] Helper_Class - enter name adress and click
+[INFO ] 2023-11-22 16:05:45.692 [main] Helper_Class - verifying order details
+[INFO ] 2023-11-22 16:06:20.427 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:06:21.415 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-22 16:06:31.689 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-22 16:06:36.134 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-22 16:06:47.257 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-22 16:06:47.474 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-22 16:06:59.214 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:06:59.476 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-22 16:07:05.102 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-22 16:07:10.355 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-22 16:07:30.247 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-22 16:07:30.434 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-22 16:08:13.411 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:08:51.480 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-22 16:08:51.907 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-22 16:08:51.915 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-22 16:08:59.749 [main] Helper_Class - Signing In
+[INFO ] 2023-11-22 16:09:17.440 [main] Helper_Class - User trying To Search Product
+[INFO ] 2023-11-22 16:09:17.954 [main] Helper_Class - Price is given from Low to High
+[INFO ] 2023-11-22 16:09:20.404 [main] Helper_Class - Getting Product which we Searched as grid view
+[INFO ] 2023-11-22 16:21:26.587 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:21:26.862 [main] Helper_Class - search product
+[INFO ] 2023-11-22 16:21:32.445 [main] Helper_Class - search product
+[INFO ] 2023-11-22 16:21:37.210 [main] Helper_Class - search product
+[INFO ] 2023-11-22 16:21:41.740 [main] Helper_Class - search product
+[INFO ] 2023-11-22 16:21:45.257 [main] Helper_Class - second product
+[INFO ] 2023-11-22 16:21:45.361 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-22 16:21:48.672 [main] Helper_Class - click the cart
+[INFO ] 2023-11-22 16:21:48.966 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-22 16:22:05.375 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:22:05.565 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-22 16:22:10.395 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-22 16:22:17.207 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:22:17.541 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-22 16:22:24.500 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-22 16:22:31.669 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:22:31.852 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-22 16:22:35.904 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-22 16:22:41.415 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:22:47.601 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-22 16:22:48.648 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-22 16:22:48.902 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-22 16:23:07.250 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:23:07.250 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:23:07.447 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-22 16:23:10.193 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-22 16:23:10.634 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-22 16:23:11.245 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-22 16:23:14.462 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-22 16:23:27.063 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:23:27.063 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:23:27.586 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-22 16:23:35.746 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-22 16:23:45.880 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:23:45.881 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:23:46.175 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-22 16:23:50.916 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-22 16:23:59.328 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:23:59.328 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:24:03.452 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-22 16:24:08.352 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-22 16:24:16.234 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:24:16.235 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-22 16:24:16.603 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-22 16:52:55.476 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-22 16:52:55.562 [main] Helper_Class - search product
+[INFO ] 2023-11-22 16:52:59.134 [main] Helper_Class - search product
+[INFO ] 2023-11-23 14:57:05.086 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:57:05.284 [main] Helper_Class - search product
+[INFO ] 2023-11-23 14:57:06.654 [main] Helper_Class - search product
+[INFO ] 2023-11-23 14:57:10.228 [main] Helper_Class - search product
+[INFO ] 2023-11-23 14:57:13.659 [main] Helper_Class - search product
+[INFO ] 2023-11-23 14:57:15.062 [main] Helper_Class - second product
+[INFO ] 2023-11-23 14:57:15.190 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-23 14:57:16.286 [main] Helper_Class - click the cart
+[INFO ] 2023-11-23 14:57:16.752 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-23 14:57:31.925 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:57:32.080 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-23 14:57:33.806 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-23 14:57:39.084 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:57:39.281 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-23 14:57:43.907 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-23 14:57:51.857 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:57:53.440 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-23 14:57:56.377 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-23 14:58:04.934 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:58:07.595 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-23 14:58:08.679 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-23 14:58:08.940 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-23 14:58:28.521 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:58:28.521 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-23 14:58:28.924 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-23 14:58:30.429 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-23 14:58:31.833 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-23 14:58:32.637 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-23 14:58:35.990 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-23 14:58:43.763 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:58:43.763 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-23 14:58:44.631 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-23 14:58:46.261 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-23 14:58:53.262 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:58:53.262 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-23 14:58:55.862 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-23 14:58:57.913 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-23 14:59:07.959 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:59:07.959 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-23 14:59:08.672 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-23 14:59:13.538 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-23 14:59:23.299 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:59:23.299 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-23 14:59:24.598 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-23 14:59:26.112 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-23 14:59:37.288 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:59:37.288 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-23 14:59:37.895 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-23 14:59:39.994 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-23 14:59:40.259 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-23 14:59:41.814 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-23 14:59:53.773 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 14:59:53.773 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-23 14:59:54.319 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-23 14:59:55.152 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-23 14:59:55.609 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-23 14:59:55.708 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-23 15:00:07.736 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 15:00:07.737 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-23 15:00:08.124 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-23 15:00:10.360 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-23 15:00:12.043 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-23 15:00:12.048 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-23 15:00:12.126 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-23 15:00:15.978 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-23 15:00:17.688 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-23 15:00:17.770 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-23 15:00:26.846 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-23 15:00:30.212 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-23 15:00:30.222 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-23 15:00:36.838 [main] Helper_Class - Signing In
+[INFO ] 2023-11-23 15:00:39.274 [main] Helper_Class - Updating Profile
+[INFO ] 2023-11-23 15:00:39.610 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-23 15:00:39.970 [main] Helper_Class - Verifying successfully updated message
+[INFO ] 2023-11-23 15:00:40.954 [main] Helper_Class - Viewing orders we placed
+[INFO ] 2023-11-23 15:00:43.103 [main] Helper_Class - Order from Date and To Date
+[INFO ] 2023-11-23 15:00:43.852 [main] Helper_Class - Clicking search option to view Orders
+[INFO ] 2023-11-23 15:00:44.004 [main] Helper_Class - List of Orders will be displayed
+[INFO ] 2023-11-23 15:00:44.194 [main] Helper_Class - Shopping List
+[INFO ] 2023-11-23 15:00:44.436 [main] Helper_Class - No products available
+[INFO ] 2023-11-23 15:00:44.790 [main] Helper_Class - Viewing Shopping Cart
+[INFO ] 2023-11-23 15:00:45.074 [main] Helper_Class - Saved Cart
+[INFO ] 2023-11-23 15:00:45.445 [main] Helper_Class - Click Saved addresses
+[INFO ] 2023-11-23 15:00:46.024 [main] Helper_Class - Address
+[INFO ] 2023-11-23 15:00:59.933 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 15:01:00.410 [main] Helper_Class - search product
+[INFO ] 2023-11-23 15:01:06.081 [main] Helper_Class - search product
+[INFO ] 2023-11-23 15:01:07.733 [main] Helper_Class - search product
+[INFO ] 2023-11-23 15:01:07.857 [main] Helper_Class - add the product to cart
+[INFO ] 2023-11-23 15:01:10.289 [main] Helper_Class - click the cart
+[INFO ] 2023-11-23 15:01:15.630 [main] Helper_Class - proceed to pay
+[INFO ] 2023-11-23 15:01:16.024 [main] Helper_Class - enter the email password and click
+[INFO ] 2023-11-23 15:01:20.482 [main] Helper_Class - enter name adress and click
+[INFO ] 2023-11-23 15:01:22.920 [main] Helper_Class - verifying order details
+[INFO ] 2023-11-23 15:01:44.891 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 15:01:47.039 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-23 15:01:55.658 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-23 15:02:07.781 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-23 15:02:13.958 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-23 15:02:14.338 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-23 15:02:26.141 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 15:02:26.382 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-23 15:02:30.282 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-23 15:02:33.330 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-23 15:02:36.591 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-23 15:02:36.649 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-23 15:02:52.060 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-23 15:03:16.601 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-23 15:03:16.956 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-23 15:03:16.959 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-23 15:03:22.295 [main] Helper_Class - Signing In
+[INFO ] 2023-11-23 15:03:24.416 [main] Helper_Class - User trying To Search Product
+[INFO ] 2023-11-23 15:03:29.068 [main] Helper_Class - Price is given from Low to High
+[INFO ] 2023-11-23 15:03:31.952 [main] Helper_Class - Getting Product which we Searched as grid view
+[INFO ] 2023-11-29 14:40:20.844 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:40:20.950 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:40:22.990 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:40:24.747 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:40:27.311 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:40:30.314 [main] Helper_Class - second product
+[INFO ] 2023-11-29 14:40:30.386 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-29 14:40:31.186 [main] Helper_Class - click the cart
+[INFO ] 2023-11-29 14:40:31.321 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-29 14:40:46.542 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:40:46.772 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-29 14:40:48.175 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-29 14:40:53.238 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:40:53.506 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-29 14:40:58.516 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-29 14:41:07.021 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:41:07.248 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-29 14:41:10.859 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-29 14:41:15.946 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:41:18.932 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-29 14:41:19.705 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-29 14:41:19.940 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-29 14:41:21.434 [main] Helper_Class - User is in Home Page and Logging Out
+[INFO ] 2023-11-29 14:41:31.377 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:41:31.377 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:41:31.772 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-29 14:41:34.049 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-29 14:41:34.728 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-29 14:41:35.303 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-29 14:41:38.935 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-29 14:41:46.707 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:41:46.708 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:41:46.989 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-29 14:41:48.757 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-29 14:41:57.568 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:41:57.568 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:41:57.878 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-29 14:41:59.581 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-29 14:42:10.953 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:42:10.953 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:42:11.540 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-29 14:42:13.610 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-29 14:42:25.085 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:42:25.085 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:42:25.426 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-29 14:42:27.155 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-29 14:42:34.015 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:42:34.015 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:42:34.157 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-29 14:42:34.797 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-29 14:42:35.018 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-29 14:42:36.273 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-29 14:42:50.532 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:42:50.532 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:42:50.886 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-29 14:42:51.743 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-29 14:42:52.105 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-29 14:42:52.256 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-29 14:43:01.957 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:43:01.961 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:43:02.238 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-29 14:43:03.651 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-29 14:43:04.532 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 14:43:04.536 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-29 14:43:04.601 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-29 14:43:06.182 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-29 14:43:31.091 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-29 14:43:31.260 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-29 14:43:39.814 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-29 14:43:40.378 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 14:43:40.387 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-29 14:43:44.688 [main] Helper_Class - Signing In
+[INFO ] 2023-11-29 14:43:46.627 [main] Helper_Class - Updating Profile
+[INFO ] 2023-11-29 14:43:46.895 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-29 14:43:47.136 [main] Helper_Class - Verifying successfully updated message
+[INFO ] 2023-11-29 14:43:47.261 [main] Helper_Class - Viewing orders we placed
+[INFO ] 2023-11-29 14:44:05.020 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:44:05.245 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:44:09.963 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:45:05.422 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:45:06.923 [main] Helper_Class - add the product to cart
+[INFO ] 2023-11-29 14:45:45.794 [main] Helper_Class - click the cart
+[INFO ] 2023-11-29 14:46:03.700 [main] Helper_Class - proceed to pay
+[INFO ] 2023-11-29 14:46:03.989 [main] Helper_Class - enter the email password and click
+[INFO ] 2023-11-29 14:46:07.089 [main] Helper_Class - enter name adress and click
+[INFO ] 2023-11-29 14:46:09.543 [main] Helper_Class - verifying order details
+[INFO ] 2023-11-29 14:46:44.423 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:46:45.009 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-29 14:46:53.769 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-29 14:46:59.835 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-29 14:47:31.268 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-29 14:47:31.592 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-29 14:47:41.220 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:47:41.676 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-29 14:47:46.286 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-29 14:47:49.903 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-29 14:48:18.132 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-29 14:48:18.244 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-29 14:49:08.134 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:50:33.982 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-29 14:50:34.829 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 14:50:34.833 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-29 14:51:19.485 [main] Helper_Class - Signing In
+[INFO ] 2023-11-29 14:51:32.144 [main] Helper_Class - User trying To Search Product
+[INFO ] 2023-11-29 14:51:32.548 [main] Helper_Class - Price is given from Low to High
+[INFO ] 2023-11-29 14:51:35.559 [main] Helper_Class - Getting Product which we Searched as grid view
+[INFO ] 2023-11-29 14:57:35.372 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:57:35.488 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:57:37.048 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:57:40.331 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:57:43.457 [main] Helper_Class - search product
+[INFO ] 2023-11-29 14:57:47.741 [main] Helper_Class - second product
+[INFO ] 2023-11-29 14:57:48.061 [main] Helper_Class - add to cart for second product
+[INFO ] 2023-11-29 14:57:50.670 [main] Helper_Class - click the cart
+[INFO ] 2023-11-29 14:57:50.936 [main] Helper_Class - remove from cart
+[INFO ] 2023-11-29 14:58:06.451 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:58:06.650 [main] Helper_Class - User Clicks the Facebook Image
+[INFO ] 2023-11-29 14:58:09.031 [main] Helper_Class - User Assert the Facebook Web page
+[INFO ] 2023-11-29 14:58:14.622 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:58:14.781 [main] Helper_Class - User Clicks the Twiiter Image
+[INFO ] 2023-11-29 14:58:19.336 [main] Helper_Class - User Assert the Twitter Web page
+[INFO ] 2023-11-29 14:58:24.766 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:58:24.964 [main] Helper_Class - User Clicks the Instagram Image
+[INFO ] 2023-11-29 14:58:28.452 [main] Helper_Class - User Assert the Instagram Web page
+[INFO ] 2023-11-29 14:58:36.365 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:58:37.282 [main] Helper_Class - User clicks Create Account
+[INFO ] 2023-11-29 14:58:38.404 [main] Helper_Class - User entering values to create Account
+[INFO ] 2023-11-29 14:58:38.761 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-29 14:58:40.176 [main] Helper_Class - User is in Home Page and Logging Out
+[INFO ] 2023-11-29 14:58:48.155 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:58:48.156 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:58:48.342 [main] Helper_Class - User selects the fitness option
+[INFO ] 2023-11-29 14:58:50.488 [main] Helper_Class - User selects the cycle option
+[INFO ] 2023-11-29 14:58:51.195 [main] Helper_Class - User Sorts the product to low to high
+[INFO ] 2023-11-29 14:58:51.626 [main] Helper_Class - User selects the Giants Brand
+[INFO ] 2023-11-29 14:58:55.016 [main] Helper_Class - User verifies the number of products displayed
+[INFO ] 2023-11-29 14:59:03.135 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:59:03.136 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:59:03.866 [main] Helper_Class - User clicks the about us option
+[INFO ] 2023-11-29 14:59:05.217 [main] Helper_Class - User is shown Hello Striker message
+[INFO ] 2023-11-29 14:59:13.160 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:59:13.161 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:59:13.475 [main] Helper_Class - User clicks the contach us option
+[INFO ] 2023-11-29 14:59:17.843 [main] Helper_Class - User is shown Inquiry & Feedback Form option
+[INFO ] 2023-11-29 14:59:27.586 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:59:27.587 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:59:28.012 [main] Helper_Class - User clicks the inqury/feedback option
+[INFO ] 2023-11-29 14:59:30.107 [main] Helper_Class - User is shown 
+[INFO ] 2023-11-29 14:59:38.136 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:59:38.136 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:59:38.730 [main] Helper_Class - User clicks the option Inquiry & Feedback Form Details option
+[INFO ] 2023-11-29 14:59:40.409 [main] Helper_Class - User is shown At Sportsjam.in, he leads Operations & Business Development. message
+[INFO ] 2023-11-29 14:59:48.465 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 14:59:48.467 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 14:59:48.704 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-29 14:59:49.462 [main] Helper_Class - User enters valid credentials 
+[INFO ] 2023-11-29 14:59:49.891 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-29 14:59:51.690 [main] Helper_Class - User is shown the loggen in message
+[INFO ] 2023-11-29 15:00:04.684 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 15:00:04.684 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 15:00:05.233 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-29 15:00:05.752 [main] Helper_Class - User enters invalid credentials 
+[INFO ] 2023-11-29 15:00:06.013 [main] Helper_Class - User clicks ont the login button
+[INFO ] 2023-11-29 15:00:06.235 [main] Helper_Class - User is shown no existing account message 
+[INFO ] 2023-11-29 15:00:17.331 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 15:00:17.331 [main] Helper_Class - User is in the home page.
+[INFO ] 2023-11-29 15:00:17.551 [main] Helper_Class - User clicks one the login button
+[INFO ] 2023-11-29 15:00:18.952 [main] Helper_Class - User clicks forgot password
+[DEBUG] 2023-11-29 15:00:19.669 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 15:00:19.676 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-29 15:00:19.747 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-29 15:00:21.597 [main] Helper_Class - User takes values from an excel sheet to enter the email address
+[INFO ] 2023-11-29 15:00:40.512 [main] Helper_Class - User clicks the submit button
+[INFO ] 2023-11-29 15:00:40.868 [main] Helper_Class - User is sent a password recovery mail to the registed mail id
+[INFO ] 2023-11-29 15:00:58.780 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-29 15:00:59.211 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 15:00:59.215 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-29 15:01:22.143 [main] Helper_Class - Signing In
+[INFO ] 2023-11-29 15:01:24.500 [main] Helper_Class - Updating Profile
+[INFO ] 2023-11-29 15:01:25.014 [main] Helper_Class - Clicking submit Button
+[INFO ] 2023-11-29 15:01:25.152 [main] Helper_Class - Verifying successfully updated message
+[INFO ] 2023-11-29 15:01:25.277 [main] Helper_Class - Viewing orders we placed
+[INFO ] 2023-11-29 15:01:26.381 [main] Helper_Class - Order from Date and To Date
+[INFO ] 2023-11-29 15:01:26.534 [main] Helper_Class - Clicking search option to view Orders
+[INFO ] 2023-11-29 15:01:26.728 [main] Helper_Class - List of Orders will be displayed
+[INFO ] 2023-11-29 15:01:26.895 [main] Helper_Class - Shopping List
+[INFO ] 2023-11-29 15:01:29.492 [main] Helper_Class - No products available
+[INFO ] 2023-11-29 15:01:29.579 [main] Helper_Class - Viewing Shopping Cart
+[INFO ] 2023-11-29 15:01:29.846 [main] Helper_Class - Saved Cart
+[INFO ] 2023-11-29 15:01:29.965 [main] Helper_Class - Click Saved addresses
+[INFO ] 2023-11-29 15:01:30.277 [main] Helper_Class - Address
+[INFO ] 2023-11-29 15:01:40.486 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 15:01:40.817 [main] Helper_Class - search product
+[INFO ] 2023-11-29 15:01:45.314 [main] Helper_Class - search product
+[INFO ] 2023-11-29 15:04:02.038 [main] Helper_Class - search product
+[INFO ] 2023-11-29 15:04:03.110 [main] Helper_Class - add the product to cart
+[INFO ] 2023-11-29 15:04:14.943 [main] Helper_Class - click the cart
+[INFO ] 2023-11-29 15:04:54.163 [main] Helper_Class - proceed to pay
+[INFO ] 2023-11-29 15:04:54.768 [main] Helper_Class - enter the email password and click
+[INFO ] 2023-11-29 15:04:57.919 [main] Helper_Class - enter name adress and click
+[INFO ] 2023-11-29 15:05:00.247 [main] Helper_Class - verifying order details
+[INFO ] 2023-11-29 15:05:37.493 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 15:05:37.774 [main] Helper_Class - User Enter the ProductOne
+[INFO ] 2023-11-29 15:05:49.939 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-29 15:05:54.294 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-29 15:06:20.062 [main] Helper_Class - User Click  the first Product in the List
+[INFO ] 2023-11-29 15:06:20.559 [main] Helper_Class - User Assert  the Product
+[INFO ] 2023-11-29 15:06:26.336 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 15:06:28.738 [main] Helper_Class - User Enter the ProductTwo
+[INFO ] 2023-11-29 15:06:33.078 [main] Helper_Class - User Click  the Serach button 
+[INFO ] 2023-11-29 15:06:34.758 [main] Helper_Class - User get   the list of the product one 
+[INFO ] 2023-11-29 15:06:59.106 [main] Helper_Class - User Click the Product in the list
+[INFO ] 2023-11-29 15:06:59.800 [main] Helper_Class - User Assert the Product
+[INFO ] 2023-11-29 15:07:28.709 [main] Helper_Class - User in SportsJam Home page
+[INFO ] 2023-11-29 15:08:07.186 [main] Helper_Class - User in SportsJam Home page
+[DEBUG] 2023-11-29 15:08:07.911 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-29 15:08:07.914 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-29 15:08:11.824 [main] Helper_Class - Signing In
+[INFO ] 2023-11-29 15:08:26.266 [main] Helper_Class - User trying To Search Product
+[INFO ] 2023-11-29 15:08:26.934 [main] Helper_Class - Price is given from Low to High
+[INFO ] 2023-11-29 15:08:30.973 [main] Helper_Class - Getting Product which we Searched as grid view

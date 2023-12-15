@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>16/3/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Nov 28 15:19:45 IST 2023</td>
+<td>Started on:</td><td>Thu Nov 23 14:56:57 IST 2023</td>
 </tr>
-<tr><td>Total time:</td><td>285 seconds (285555 ms)</td>
+<tr><td>Total time:</td><td>396 seconds (396149 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,219 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User trying to create Account using valid details", "Creating Account in SportsJam"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[text()=&apos;Logout&apos;]&quot;}
+  (Session info: MicrosoftEdge=119.0.2151.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2097fd9a6080d072fb541224bd36e269, findElement {using=xpath, value=//a[text()=&apos;Logout&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56434}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56434/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2097fd9a6080d072fb541224bd36e269
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.getText(Unknown Source)
+	at com.actions.CreateAccountAction.clicklogoutBtn(CreateAccountAction.java:49)
+	at com.StepDefinition.CreateAccountStepDefinition.user_able_to_see_logged_in_page_and_logging_out(CreateAccountStepDefinition.java:41)
+	at ✽.User able to see logged in Page and logging out(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/CreateAccount.feature:11)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1202929159", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1202929159'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[text()=&apos;Logout&apos;]&quot;}
+  (Session info: MicrosoftEdge=119.0.2151.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2097fd9a6080d072fb541224bd36e269, findElement {using=xpath, value=//a[text()=&apos;Logout&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56434}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56434/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2097fd9a6080d072fb541224bd36e269
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.getText(Unknown Source)
+	at com.actions.CreateAccountAction.clicklogoutBtn(CreateAccountAction.java:49)
+	at com.StepDefinition.CreateAccountStepDefinition.user_able_to_see_logged_in_page_and_logging_out(CreateAccountStepDefinition.java:41)
+	at ✽.User able to see logged in Page and logging out(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/CreateAccount.feature:11)
+</pre></div></td>
+<td>23</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User Searching for Football shoes", "Checking Availability of Football Shoes"</td>
+<td><div><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=119.0.2151.72)
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2685aab7cacc27b403d745625d075d33, clickElement {id=634C91BB451962994A16997A79238260_element_161}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59136}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59136/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (2685aab7cacc27b403d745625d075d33)] -&gt; xpath: //a[@id=&apos;Rs_CU00037272-002-1&apos;]]
+Session ID: 2685aab7cacc27b403d745625d075d33
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at jdk.internal.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+	at com.actions.ShoesActions.clicshoescategory(ShoesActions.java:43)
+	at com.StepDefinition.ShoesStepDefinition.user_selecting_the_shoes_category(ShoesStepDefinition.java:49)
+	at ✽.User Selecting the Shoes category(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/Shoes.feature:9)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1734811057", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1734811057'><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=119.0.2151.72)
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2685aab7cacc27b403d745625d075d33, clickElement {id=634C91BB451962994A16997A79238260_element_161}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59136}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59136/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: msedge on windows (2685aab7cacc27b403d745625d075d33)] -&gt; xpath: //a[@id=&apos;Rs_CU00037272-002-1&apos;]]
+Session ID: 2685aab7cacc27b403d745625d075d33
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at jdk.internal.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.click(Unknown Source)
+	at com.actions.ShoesActions.clicshoescategory(ShoesActions.java:43)
+	at com.StepDefinition.ShoesStepDefinition.user_selecting_the_shoes_category(ShoesStepDefinition.java:49)
+	at ✽.User Selecting the Shoes category(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/Shoes.feature:9)
+</pre></div></td>
+<td>31</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Adding items to Cart", "user wants to Clicking the AddToCart and Delete from Cart in SportsJam"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//li[@class=&apos;productname&apos;]//child::span[@class=&apos;ptitle&apos;]&quot;}
+  (Session info: MicrosoftEdge=119.0.2151.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f338505b2afec4c3be3902d11807a3a7, findElement {using=xpath, value=//li[@class=&apos;productname&apos;]//child::span[@class=&apos;ptitle&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55958}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55958/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f338505b2afec4c3be3902d11807a3a7
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.getText(Unknown Source)
+	at com.actions.AddToCartActions.getEmptyVerifyText(AddToCartActions.java:50)
+	at com.StepDefinition.AddToCartStepDefinition.the_updated_cart_is_shown(AddToCartStepDefinition.java:86)
+	at ✽.the updated Cart is shown(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/AddToCart.feature:17)
+</pre></div><a href='#' onClick='toggleBox("stack-trace2143559864", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2143559864'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//li[@class=&apos;productname&apos;]//child::span[@class=&apos;ptitle&apos;]&quot;}
+  (Session info: MicrosoftEdge=119.0.2151.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.14.1&apos;, revision: &apos;03f8ede370&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f338505b2afec4c3be3902d11807a3a7, findElement {using=xpath, value=//li[@class=&apos;productname&apos;]//child::span[@class=&apos;ptitle&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55958}, msedge: {msedgedriverVersion: 119.0.2151.72 (e8225cce8e47..., userDataDir: C:\Users\VBALAM~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55958/devtoo..., se:cdpVersion: 119.0.2151.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f338505b2afec4c3be3902d11807a3a7
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy38.getText(Unknown Source)
+	at com.actions.AddToCartActions.getEmptyVerifyText(AddToCartActions.java:50)
+	at com.StepDefinition.AddToCartStepDefinition.the_updated_cart_is_shown(AddToCartStepDefinition.java:86)
+	at ✽.the updated Cart is shown(file:///C:/Pilot%20project%20Push/PurpleRangers_PilotProject/src/test/resources/Features/AddToCart.feature:17)
+</pre></div></td>
+<td>28</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -76,20 +289,85 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='runner.TestAddToCartTestNG.runScenario()'><b>runScenario</b><br>Test class: runner.TestAddToCartTestNG<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Adding items to Cart", "user wants to Clicking the AddToCart and Delete from Cart in SportsJam"</td>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Buying the product using payment option", "Proceeding with the payment for the product"</td>
 <td></td>
-<td>27</td>
-<td>runner.TestAddToCartTestNG@2b40ff9c</td></tr>
+<td>41</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
 <tr>
-<td title='runner.TestAddToCartTestNG.runScenario()'><b>runScenario</b><br>Test class: runner.TestAddToCartTestNG<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicking customer support", "Customer Support in SportsJam"</td>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User logins to the web application with Invalid credentials", "Checking the login functionality of the sportsjam web application"</td>
 <td></td>
-<td>71</td>
-<td>runner.TestAddToCartTestNG@2b40ff9c</td></tr>
+<td>12</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
 <tr>
-<td title='runner.TestAddToCartTestNG.runScenario()'><b>runScenario</b><br>Test class: runner.TestAddToCartTestNG<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Buying the product using payment option", "Proceeding with the payment for the product"</td>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User trying to search product", "Searching product in Sports Tab"</td>
 <td></td>
-<td>179</td>
-<td>runner.TestAddToCartTestNG@2b40ff9c</td></tr>
+<td>24</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User uses the forgot password feature to recover their password", "Checking the login functionality of the sportsjam web application"</td>
+<td></td>
+<td>22</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User Search the product and verify it application", "Search the product in Sportsjam"</td>
+<td></td>
+<td>22</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicking Instagram", "Connect With Us in SportsJam"</td>
+<td></td>
+<td>12</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicking contact us", "Get to know us in SportsJam"</td>
+<td></td>
+<td>11</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicking Twiiter", "Connect With Us in SportsJam"</td>
+<td></td>
+<td>10</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Looking for product, sorting it and adding filters", "To select a product and use filters to see if the product gets sorted and displays only limited products"</td>
+<td></td>
+<td>16</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User logins to the web application with valid credentials", "Checking the login functionality of the sportsjam web application"</td>
+<td></td>
+<td>17</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicking inqury/feedback", "Get to know us in SportsJam"</td>
+<td></td>
+<td>15</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicking About us", "Get to know us in SportsJam"</td>
+<td></td>
+<td>10</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User trying to access My profile in My Account", "Filling User profile Details in SportsJam"</td>
+<td></td>
+<td>28</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicking sportsjam team", "Get to know us in SportsJam"</td>
+<td></td>
+<td>12</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User Search the product and verify it application", "Search the product in Sportsjam"</td>
+<td></td>
+<td>46</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
+<tr>
+<td title='com.Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User clicking About us", "Connect With Us in SportsJam"</td>
+<td></td>
+<td>6</td>
+<td>com.Runner.TestRunner@2b40ff9c</td></tr>
 </table><p>
 </body>
 </html>

@@ -1,14 +1,14 @@
 package com.StepDefinition;
- 
+
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
- 
+
 import com.utility.Helper_Class;
- 
+
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
- 
+
 public class HookClass {
 	@Before
 	public static void setUp() {
@@ -23,3 +23,4 @@ public class HookClass {
 		Helper_Class.tearDown();
 	}
 }
+
